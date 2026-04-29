@@ -1,4 +1,4 @@
-# Projeto Trello DIO
+# Trello DIO Project
 
 This repository contains a simple project built during a bootcamp, focused on learning how to create agents with Google ADK and integrate them with external tools such as Trello.
 
